@@ -38,7 +38,9 @@ In the input beside the label "redirect url" enter:
 Once the app is created, go to the app's settings. In there, you will find a Client ID and a Client Secret. Back in the .env file, add:
 
 > REDIRECT_URI = http://localhost:8888/logged
+
 > CLIENT_ID = {your client ID goes here, without brackets}
+
 > CLIENT_SECRET = {your client secret goes here, without brackets}
 
 In the .env file you should now have values for PORT, REDIRECT_URI, CLIENT_ID, and CLIENT_SECRET environment variables. Without these, Spotify Jazzed will not perform as designed.
