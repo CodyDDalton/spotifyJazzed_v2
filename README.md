@@ -16,7 +16,7 @@ The easiest method is to open up a terminal window on your machine. cd into a di
 
 > git clone https://github.com/CodyDDalton/spotifyJazzed_v2.git
 
-Once the repository is clone to your machine, open it with the code editor of your choice. Before entering any commands into your code editor’s terminal, make sure you are in the root directory of this project. Once you are, enter the command:
+Once the repository is cloned to your machine, open it with the code editor of your choice. Before entering any commands into your code editor’s terminal, make sure you are in the root directory of this project. Once you are, enter the command:
 
 > npm install
 
