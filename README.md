@@ -14,7 +14,7 @@ To begin, you will want to click on the green code box on the upper portion of t
 
 The easiest method is to open up a terminal window on your machine. cd into a directory you want to copy into, and then type into your command line:
 
-> git clone https://github.com/ePortfolios/wdv349-DaltonCody-FS.git
+> git clone https://github.com/CodyDDalton/spotifyJazzed_v2.git
 
 Once the repository is clone to your machine, open it with the code editor of your choice. Before entering any commands into your code editor’s terminal, make sure you are in the root directory of this project. Once you are, enter the command:
 
