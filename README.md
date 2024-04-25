@@ -6,7 +6,7 @@
 
 <h3 align="center">Custom Search Interface Using Spotify Web API</h2>
 
-Spotify Jazzed was one of my first projects during my time in university. After graduating, I decided I wanted to give my work a makeover. The result was Spotify Jazzed V2. 
+Spotify Jazzed was one of my first projects during my time in university. We were assigned to create a custom front-end interface and a REST API to call for search results from the Spotify Web API. These results would then be displayed on the front-end in whatever way we wished. I enjoyed the project and was given the compliment of my professor asking to use my project as a strong example for future students, but after time passed I realized the overall design left a lot to be desired. So, after graduating, I decided I wanted to give my work a makeover. The result was Spotify Jazzed V2. 
 
 <h2 align="center">Getting Started</h2>
 
