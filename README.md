@@ -12,7 +12,7 @@ Spotify Jazzed was one of my first projects during my time in university. We wer
 
 To begin, you will want to click on the green code box on the upper portion of this repository’s screen. You will have three options on how to clone the repository down to your machine - HTTPS, SSH, and Github CLI. 
 
-The easiest method is to open up a terminal window on your machine. CD into a directory you want to copy Neurolog onto, and then type into your command line:
+The easiest method is to open up a terminal window on your machine. cd into a directory you want to copy into, and then type into your command line:
 
 > git clone https://github.com/ePortfolios/wdv349-DaltonCody-FS.git
 
