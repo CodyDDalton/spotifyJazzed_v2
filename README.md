@@ -22,7 +22,7 @@ Once the repository is cloned to your machine, open it with the code editor of y
 
 You may also need to cd into /front-end, and then into /api. In each, npm install. This will install the necessary packages that will get Spotify Jazzed running. In the /api section, if there isn't already a .env file you're going to want to use the command:
 
-> npm install .dotenv
+> npm install dotenv
 
 Once installed, create a file in /api called .env. In this file, you will need to type and save the following:
 
