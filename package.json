@@ -1,0 +1,19 @@
+{
+  "name": "spotifyjazzed_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-react": "npm install --prefix front-end",
+    "install-api": "npm install --prefix api",
+    "start": "concurrently --raw \"npm run api\" \"npm run react\"",
+    "react": "cd front-end && npm run start",
+    "api": "cd api && npm run start"
+  },
+  "author": "Cody Dalton",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "concurrently": "^8.2.2"
+  }
+}
